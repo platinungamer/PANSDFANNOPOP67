@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": p4ndz1.aternos.me",
+    "port": 46935,
+     "version": "",
     "try-creative": false
   },
   "position": {
@@ -25,16 +25,6 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-    },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -53,15 +43,6 @@
       "radius": 4,
       "speed": 3000
     },
-    "look-around": {
-      "enabled": true,
-      "interval": 5000
-    },
-    "random-jump": {
-      "enabled": true,
-      "interval": 10000
-    }
-  },
   "modules": {
     "avoidMobs": true,
     "combat": true,
